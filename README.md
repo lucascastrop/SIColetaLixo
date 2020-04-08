@@ -1,2 +1,2 @@
 # SIColetaLixo
-planejamento de rotas de coleta
+Pasta para guardar documentos de engenharia de software
